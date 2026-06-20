@@ -4,3 +4,149 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[features]
+default = []
+all = [
+    "0xproto",
+    "3270",
+    "adwaita-mono",
+    "agave",
+    "anonymous-pro",
+    "arimo",
+    "atkinson-hyperlegible-mono",
+    "aurulent-sans-mono",
+    "big-blue-terminal",
+    "bitstream-vera-sans-mono",
+    "cascadia-code",
+    "cascadia-mono",
+    "code-new-roman",
+    "comic-shanns-mono",
+    "commit-mono",
+    "cousine",
+    "d2-coding",
+    "daddy-time-mono",
+    "deja-vu-sans-mono",
+    "departure-mono",
+    "droid-sans-mono",
+    "envy-code-r",
+    "fantasque-sans-mono",
+    "fira-code",
+    "fira-mono",
+    "geist-mono",
+    "go-mono",
+    "gohu",
+    "hack",
+    "hasklig",
+    "heavy-data",
+    "hermit",
+    "ia-writer",
+    "ibm-plex-mono",
+    "inconsolata",
+    "inconsolata-go",
+    "inconsolata-lgc",
+    "intel-one-mono",
+    "iosevka",
+    "iosevka-term",
+    "iosevka-term-slab",
+    "jet-brains-mono",
+    "lekton",
+    "liberation-mono",
+    "lilex",
+    "martian-mono",
+    "meslo",
+    "monaspace",
+    "monofur",
+    "monoid",
+    "mononoki",
+    "m-plus",
+    "nerd-fonts-symbols-only",
+    "noto",
+    "open-dyslexic",
+    "overpass",
+    "pro-font",
+    "proggy-clean",
+    "recursive",
+    "roboto-mono",
+    "share-tech-mono",
+    "source-code-pro",
+    "space-mono",
+    "terminus",
+    "tinos",
+    "ubuntu",
+    "ubuntu-mono",
+    "ubuntu-sans",
+    "victor-mono",
+    "zed-mono",
+]
+
+"0xproto" = []
+"3270" = []
+"adwaita-mono" = []
+"agave" = []
+"anonymous-pro" = []
+"arimo" = []
+"atkinson-hyperlegible-mono" = []
+"aurulent-sans-mono" = []
+"big-blue-terminal" = []
+"bitstream-vera-sans-mono" = []
+"cascadia-code" = []
+"cascadia-mono" = []
+"code-new-roman" = []
+"comic-shanns-mono" = []
+"commit-mono" = []
+"cousine" = []
+"d2-coding" = []
+"daddy-time-mono" = []
+"deja-vu-sans-mono" = []
+"departure-mono" = []
+"droid-sans-mono" = []
+"envy-code-r" = []
+"fantasque-sans-mono" = []
+"fira-code" = []
+"fira-mono" = []
+"geist-mono" = []
+"go-mono" = []
+"gohu" = []
+"hack" = []
+"hasklig" = []
+"heavy-data" = []
+"hermit" = []
+"ia-writer" = []
+"ibm-plex-mono" = []
+"inconsolata" = []
+"inconsolata-go" = []
+"inconsolata-lgc" = []
+"intel-one-mono" = []
+"iosevka" = []
+"iosevka-term" = []
+"iosevka-term-slab" = []
+"jet-brains-mono" = []
+"lekton" = []
+"liberation-mono" = []
+"lilex" = []
+"martian-mono" = []
+"meslo" = []
+"monaspace" = []
+"monofur" = []
+"monoid" = []
+"mononoki" = []
+"m-plus" = []
+"nerd-fonts-symbols-only" = []
+"noto" = []
+"open-dyslexic" = []
+"overpass" = []
+"pro-font" = []
+"proggy-clean" = []
+"recursive" = []
+"roboto-mono" = []
+"share-tech-mono" = []
+"source-code-pro" = []
+"space-mono" = []
+"terminus" = []
+"tinos" = []
+"ubuntu" = []
+"ubuntu-mono" = []
+"ubuntu-sans" = []
+"victor-mono" = []
+"zed-mono" = []
